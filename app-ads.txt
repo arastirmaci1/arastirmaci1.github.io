@@ -1,5 +1,3 @@
-## Updated at: 2022-02-25
-
 a4g.com, 13896, DIRECT
 google.com, pub-1232265399417302, RESELLER
 indexexchange.com, 195450, RESELLER, 50b1c356f2c5c8fc
